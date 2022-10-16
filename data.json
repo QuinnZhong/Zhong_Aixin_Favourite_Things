@@ -1,0 +1,20 @@
+{
+    "cinephile": {
+        "name":"Watching films and film analysis videos",
+        "description":"A movie lover watches a film to pass the time, but a I watche it to fill my time",
+        "image":"cinephilejpg.jpg",
+        "imageLink":"https://www.netflix.com/ca/"
+    },
+    "mash-up": {
+        "name":"Watching all kinds of video mash-ups",
+        "description":"I like what is familiar. I also enjoy surprise. Thus, watching or listening with anticipation to see how a story I know so well has been altered gives lots of fun. ",
+        "image":"mash_up.jpg",
+        "imageLink":"https://www.youtube.com/watch?v=JPtwIGmgAjk"
+    },
+    "gaming": {
+        "name":"Playing games, they are fun!",
+        "description":"Video games give me opportunity to do something new. I can make friends, complete quests, and obtain items. All these experiences can be novel. ",
+        "image":"gamesjpg.jpg",
+        "imageLink":"https://www.gamestop.ca"
+    }
+  }
